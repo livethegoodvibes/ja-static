@@ -1,1 +1,1 @@
-# japanesealliance
+# ja-static
